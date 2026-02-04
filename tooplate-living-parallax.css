@@ -1422,4 +1422,12 @@ footer a:hover {
 		padding: 13px 30px;
 		font-size: 0.95rem;
 	}
+
+@media (max-width: 768px) {
+  .background-layer img {
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    }
 }
